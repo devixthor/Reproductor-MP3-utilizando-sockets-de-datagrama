@@ -1,1 +1,0 @@
-print("Hola, yo soy el cliente")
